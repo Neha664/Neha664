@@ -6,7 +6,7 @@ Whether it's customer analytics, sales trends, NLP-based spam detection, or AI-p
 
 <img align="right" alt="Data Analytics" width="300" src="Analyticsss.png">
 ---
-<h2> 🔭 My Interests  </h2>h2>
+<h2> 🔭 My Interests  </h2>
 
 - 📊 Data Analytics & Business Intelligence
 - 📈 Dashboard Development with Power BI
