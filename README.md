@@ -4,7 +4,7 @@ I'm **Neha Shinge**, a Computer Engineering graduate passionate about Data Analy
 Through internships, hackathons, and real-world projects, I've built hands-on experience in **SQL, Python, Power BI, Excel, and Machine Learning**. I enjoy transforming raw datasets into meaningful insights, building interactive dashboards, and developing analytics solutions that help solve real-world problems.
 Whether it's customer analytics, sales trends, NLP-based spam detection, or AI-powered IoT systems, I believe that **every dataset has a story—and my goal is to uncover it.**
 
-<img align="right" alt="Data Analytics" width="300" src="analytics.png">
+<img align="right" alt="Data Analytics" width="300" src="Analyticsss.png">
 ---
 ## 🔭 My Interests
 
