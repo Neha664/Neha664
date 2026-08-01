@@ -1,46 +1,53 @@
-## Hi there 👋
+## 🚀 About Me
 
-# Hi there 👋 I'm Neha Shinge
+I'm **Neha Shinge**, a Computer Engineering graduate passionate about Data Analytics, Business Intelligence, and AI.
+Through internships, hackathons, and real-world projects, I've built hands-on experience in **SQL, Python, Power BI, Excel, and Machine Learning**. I enjoy transforming raw datasets into meaningful insights, building interactive dashboards, and developing analytics solutions that help solve real-world problems.
+Whether it's customer analytics, sales trends, NLP-based spam detection, or AI-powered IoT systems, I believe that **every dataset has a story—and my goal is to uncover it.**
 
-### Data Analyst | SQL • Power BI • Python • Excel
-
-> **Turning Data into Decisions.**
-
-I'm a Computer Engineering graduate passionate about transforming raw data into meaningful business insights. Through internships, hackathons, and real-world projects, I've worked with SQL, Python, Power BI, and Excel to build dashboards, analyze datasets, and solve practical business problems.
-
+<img align="right" alt="Data Analytics" width="300" src="YOUR_GIF_OR_IMAGE_LINK">
 ---
+## 🔭 My Interests
 
-### 🛠 Tech Stack
+- 📊 Data Analytics & Business Intelligence
+- 📈 Dashboard Development with Power BI
+- 🗄 SQL & Database Optimization
+- 🤖 Machine Learning & NLP
+- 🚀 Data Storytelling & Visualization
+- 💡 Solving real-world business problems using data
+---
+## 🛠 Skills
 
-- **Languages:** Python, SQL, C++
-- **Analytics:** Power BI, Excel, Tableau
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **Database:** MySQL
+- **Programming:** Python, SQL, C++, Java (Basics)
+- **Analytics & BI:** Power BI, Excel, Tableau
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, NLTK
+- **Databases:** MySQL
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
-
 ---
+## 📂 Featured Projects
 
-### 📊 Featured Projects
-
-- 📈 Customer Analytics Dashboard
-- 📧 SMS Spam Detection
-- 🚑 Smart ResQ
-- 👁 Alert Eye
-
+- 📊 Customer Analytics Dashboard (Power BI)
+- 📧 SMS Spam Detection (NLP + Machine Learning)
+- 🚑 Smart ResQ – IoT Accident Detection System
+- 👁 Alert Eye – AI-powered Object Detection
+- 🎬 Movie Ratings Descriptive Analysis
 ---
-
-### 🏆 Highlights
+## 🏆 Achievements
 
 - 🥈 2nd Place – Code4Change National Hackathon
 - 🏅 Top 20 Team – Smart India Hackathon
+- 🎓 McKinsey Forward Program
 - 💼 Data Analytics Internships
 
 ---
 
-### 📫 Let's Connect
+## 📫 How to Reach Me
 
-- 💼 LinkedIn: *(add your profile)*
-- 📧 Email: *(add your email)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 
-⭐ *Thanks for visiting my profile!*
--->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE)
+
+---
+
+❤️ Thanks for visiting my profile!
